@@ -1,1 +1,1 @@
-# tarefas
+# tarefas - gerenciado de tarefas
